@@ -3,9 +3,11 @@ Flask_Bootstrap
 flask_wtf
 numpy
 Pillow
-torch
-torchvision
 tqdm
 Werkzeug
 WTForms
 gunicorn
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1+cpu
+torchvision==0.29.1+cpu
