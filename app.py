@@ -10,6 +10,7 @@ from PIL import Image
 from torchvision import transforms
 import io
 import torch
+torch.set_num_threads(1)
 
 # Import your existing AdaIN code
 from utils.models import VGGEncoder, Decoder
