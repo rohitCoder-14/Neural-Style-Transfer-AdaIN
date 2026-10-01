@@ -41,7 +41,7 @@ decoder = Decoder()
 
 decoder.load_state_dict(
     torch.load(
-        'C:/Users/DELL/OneDrive/Desktop/NST_Code/experiment/final_exp/decoder_final.pth',
+        'experiment/final_exp/decoder_final.pth',
         map_location=device
     )
 )
