@@ -388,29 +388,27 @@ The expected workflow is:
 │       🏙️         │
 └────────┬─────────┘
          │
-         │
          ▼
       🧠 AdaIN
          ▲
-         │
          │
 ┌────────┴─────────┐
 │   Style Image    │
 │                  │
 │       🎨         │
-└──────────────────┘
+└────────┬─────────┘
          │
          ▼
 ┌──────────────────┐
 │ Stylized Output  │
 │                  │
-│   🏙️ + 🎨        │
+│    🏙️ + 🎨       │
 └──────────────────┘
+```
 
 ---
+
 # 📚 What I Learned
-
-
 
 Through this project, I explored:
 
@@ -441,11 +439,11 @@ The original research introduced Adaptive Instance Normalization as a method for
 
 # 🙏 Acknowledgements
 
-* **Xun Huang & Serge Belongie** — for the AdaIN research paper
-* **VGG19 / ImageNet** — for the pre-trained feature encoder
-* **PyTorch** — deep learning framework
-* **Flask** — web application framework
-* Open-source contributors whose libraries made this project possible
+* 🎨 **Xun Huang & Serge Belongie** — for the AdaIN research paper
+* 🧠 **VGG19 / ImageNet** — for the pre-trained feature encoder
+* 🔥 **PyTorch** — deep learning framework
+* 🌐 **Flask** — web application framework
+* 💻 Open-source contributors whose libraries made this project possible
 
 ---
 
@@ -498,3 +496,4 @@ See the [`LICENSE`](LICENSE) file for details.
   <br><br>
   Made with ❤️ using Python & PyTorch
 </p>
+
