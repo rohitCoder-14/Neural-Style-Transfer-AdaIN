@@ -406,17 +406,6 @@ The expected workflow is:
 │                  │
 │   🏙️ + 🎨        │
 └──────────────────┘
-```
-
-Add your actual screenshots or generated results here:
-
-```markdown
-![Content Image](examples/content.jpg)
-
-![Style Image](examples/style.jpg)
-
-![Stylized Output](examples/output.jpg)
-```
 
 ---
 
