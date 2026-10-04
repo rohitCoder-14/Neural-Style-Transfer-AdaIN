@@ -473,13 +473,20 @@ See the [`LICENSE`](LICENSE) file for details.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Rohit Singh Rawat**
+### Rohit Singh Rawat
 
-MCA Data Science | AI/ML/DS Enthusiast
+🎓 **MCA — Data Science**
 
-This project was developed as part of my exploration of **Deep Learning, Computer Vision, and Generative AI**.
+<p>
+  <a href="https://github.com/rohitCoder-14">
+    <img src="https://img.shields.io/badge/GitHub-rohitCoder--14-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-singh-rawat1407/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Singh%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
